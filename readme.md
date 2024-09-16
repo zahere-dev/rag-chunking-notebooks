@@ -10,6 +10,11 @@ This project explores and compares the performance of three chunking techniques:
   - [Fixed-Size Chunking](https://colab.research.google.com/drive/1rl5VHr5KfpUwEk28GCekISza4yG6yRGu#scrollTo=p0Og54mXSZkm)
   - [Recursive Chunking](https://colab.research.google.com/drive/1YvHZZObiz6gNdfBkmOkR61S1fcB_GZ1W#scrollTo=p0Og54mXSZkm)
   - [Semantic Chunking](https://colab.research.google.com/drive/1yqOSKGwqh2c9wPrerr6YDLgIp0qOQgcm#scrollTo=fv0tuXVo7Cqv)
+ 
+- **Dataset**:
+  - [Medical Case Studies Synthetica Dataset](https://github.com/zahere-dev/rag-chunking-notebooks/blob/main/medical_case_studies_synthetica_dataset.txt)
+
+
 
 ## Overview
 - **Fixed-Size Chunking**: Divides text into fixed-length segments, which may or may not respect sentence boundaries.
